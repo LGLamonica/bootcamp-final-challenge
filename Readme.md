@@ -39,12 +39,3 @@ Parte del ejercicio es ver cómo prioriza el trabajo y lo divide en partes manej
 
 ### Gracias a todos por participar en la Edicion del Bootcamp DevOps
 
-⌨️ con ❤️ por [roxsross](https://github.com/roxsross) 😊
-
-No olvides revisar mi blog [roxsross](https://blog.295devops.com) 😊
-
-y mi linktree [roxsross](https://roxs.295devops.com) 😊
-
-Comprarme un cafe! [![Comprar](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/roxsross)
-
-"No se trata de cambiar el mundo, creo que creas un cambio pequeño, pero que te importe estás cambiando las cosas".
