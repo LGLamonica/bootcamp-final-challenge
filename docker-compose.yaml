@@ -1,0 +1,32 @@
+version: "3"
+
+services:
+  
+  #golang
+  go:
+    build: ./hello-world-golang
+    ports:
+      - "3002:3002"
+    
+    
+  # hello-node application
+  node:
+    build: ./hello-world-nodejs
+    ports:
+      - 3000:3000
+
+  # nginx
+  web:
+    build: ./hello-world-nginx
+    depends_on:
+      - go
+      - node
+    ports:
+      - "18181:18181"
+  
+
+ 
+    
+
+ 
+
